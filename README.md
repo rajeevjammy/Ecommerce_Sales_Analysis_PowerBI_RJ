@@ -70,8 +70,8 @@ To build a dynamic Power BI dashboard for visualizing and analyzing:
 
 Feel free to reach out for feedback, collaboration, or discussion:
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [your.email@example.com]
+LinkedIn: https://www.linkedin.com/in/rajeev-selvam-7a6538325/
+Email: rajeevjammy@gmail.com
 
 ---
 
